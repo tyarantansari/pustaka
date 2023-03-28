@@ -1,1 +1,1 @@
-Web Application with Codeigniter 3 Framework.
+Responsive book booking web application with Codeigniter 3 Framework.
